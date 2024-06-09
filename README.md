@@ -4,5 +4,6 @@ Linear, Reg and lasso classes were used whil fitting models, including features 
 
 Yuriy Podmogaev
 
-- twitter: @podmogaev
-- instagram: @yuriypodmogaev
+- twitter:   podmogaev
+- instagram: yuriypodmogaev
+- telegram:  yuriypodmogaev
