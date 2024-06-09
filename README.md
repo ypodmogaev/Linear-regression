@@ -1,6 +1,6 @@
 # Linear Regression
 
-Linear and Reg classes was used will constructing models.
+Linear, Reg and lasso classes were used whil fitting models, including features selection.
 
 Yuriy Podmogaev
 
