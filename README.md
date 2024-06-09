@@ -1,4 +1,4 @@
-# Nearest-Neighbors-Regression
+# Linear Regression
 
 Linear and Reg classes was used will constructing models.
 
